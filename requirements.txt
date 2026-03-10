@@ -1,0 +1,6 @@
+streamlit
+llama-index
+qdrant-client
+ollama
+pypdf
+python-dotenv
